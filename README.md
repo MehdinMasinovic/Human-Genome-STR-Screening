@@ -1,0 +1,1 @@
+This repository serves to store all data relevant to the data analysis that was conducted for my undergraduate study. It includes all R-scripts, figures, and data-sets. The number of files is very large, which is why the repository will be carefully updated. If any files concerning my analysis are required urgently, please contact me under (mehdin.masinovic2@gmail.com).
