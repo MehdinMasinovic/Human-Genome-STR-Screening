@@ -1,6 +1,6 @@
 # Short tandem repeat analysis in recombination hotspots across the human genome
 
-This repository serves to store all data relevant to the data analysis that was conducted for my undergraduate study. It includes all R scripts, figures, and data sets. The folders are fully uploaded. 
+This repository serves to store all data relevant to the data analysis that was conducted for my bachelor thesis. It includes all R scripts, figures, and data sets. The folders are fully uploaded. 
 
 Every folder contains the R scripts, data sets, and figures related to one topic. For example, if someone is interested on how STRAH was applied (with what arguments, what repeats, etc.), it is possible to check that in the folder "Applying-STRAH".
 
