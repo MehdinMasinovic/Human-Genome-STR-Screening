@@ -26,7 +26,6 @@ STRAH was applied on two versions of the human reference genome:
 ## Recombination hotspots
 STR_analysis() is the main function in STRAH. All short-tandem repeat types are screened for using the abovementioned command, differing in the minimum repeat length. In all categories, we screen the human genome using the double-strand break map (DSB-map) of the work of Pratto et al. (https://science.sciencemag.org/content/346/6211/1256442). We define recombination maps as ± 500 base pairs up and downstream from the hotspot coordinates identified by Pratto et al, (```addToHs = 500, pos_matrix```).
 
-## Repeat length
 
 
 
